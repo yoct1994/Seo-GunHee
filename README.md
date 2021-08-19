@@ -20,7 +20,7 @@
 ## Tool
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23C21325.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
