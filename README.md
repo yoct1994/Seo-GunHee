@@ -10,6 +10,7 @@
 ![Dart](https://img.shields.io/badge/dart-%23007ACC.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23E34F26.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%23039BE5.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 ## Framwork & Platform & Library
 
