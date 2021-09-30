@@ -49,5 +49,5 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
-[![Seo-GunHee's github stats](https://github-readme-stats.vercel.app/api?username=yoct1994&show_icons=true&hide_border=true&count_private=true)](https://github.com/yoct1994)
+[![Seo-GunHee's github stats](https://github-readme-stats.vercel.app/api?username=yoct1994&show_icons=true&hide_border=true&count_private=true&theme=github_dark)](https://github.com/yoct1994)
 
