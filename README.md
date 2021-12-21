@@ -11,12 +11,17 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%23E34F26.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%23039BE5.svg?style=for-the-badge&logo=Go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%231572B6.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23C21325.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%2311AB00.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## Framwork & Platform & Library
 
 ![SpringBoot](https://img.shields.io/badge/springboot-%2343853D.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
 ![spring](https://img.shields.io/badge/spring-%2343853D.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=React&logoColor=blue)
+![ReactNaitive](https://img.shields.io/badge/ReactNative-%23000000.svg?style=for-the-badge&logo=React&logoColor=blue)
 
 ## Tool
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23C21325.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -28,8 +33,8 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-## ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-%230db7ed.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-%230db7ed.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23039BE5.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 ## Hosting
 
