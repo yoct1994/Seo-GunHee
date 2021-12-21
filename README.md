@@ -56,5 +56,6 @@
 
 [![Seo-GunHee's github stats](https://github-readme-stats.vercel.app/api?username=yoct1994&show_icons=true&hide_border=true&count_private=true&theme=github_dark)](https://github.com/yoct1994)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoct1994&langs_count=8&theme=github_dark)](https://github.com/yoct1994)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoct1994&langs_count=9&theme=github_dark)](https://github.com/yoct1994)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoct1994%2Fhit-counter&count_bg=%236086FF&title_bg=%239C9C9C&icon=github.svg&icon_color=%23000000&title=yoct1994&edge_flat=false)](https://github.com/yoct1994)
